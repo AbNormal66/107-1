@@ -1,0 +1,47 @@
+header{
+    width: 800px;
+    height: 80px;
+    background-color: aqua;
+}
+
+aside{
+    width: 170px;
+    height: 400px;
+    background: url(../petimgs/bg_lt.png);
+    float: left;
+}
+
+article{
+    width: 625PX;
+    height: 400PX;
+    
+}
+
+footer{
+    width: 800px;
+    height: 50px;
+    background-color: floralwhite;
+}
+
+nav{
+    
+    margin-top: 170px;
+}
+
+nav ul{
+    padding-left: 5px;
+    list-style: none;
+}
+
+nav ul li a{
+    display: block;
+    width: 130px;
+    height: 42px;
+    background-image: url(../petimgs/btn.png);
+    text-indent: 45px;
+    line-height: 30px;
+}
+
+nav ul li a:hover{
+    color: white;
+}

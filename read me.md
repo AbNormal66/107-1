@@ -15,12 +15,12 @@
 # W04/
 [BLOG](https://github.com/AbNormal66/107-1/blob/master/w04/blog.html)
 
-[TIC TAC TOE]https://github.com/AbNormal66/107-1/blob/master/w04/ttt.html
+[TIC TAC TOE](https://github.com/AbNormal66/107-1/blob/master/w04/ttt.html)
 
 # W05/
-寵物窩網頁/https://github.com/AbNormal66/107-1/blob/master/w05-nav/index.html
+[寵物窩網頁](https://github.com/AbNormal66/107-1/blob/master/w05-nav/index.html/)
 
-ImagesGallery/https://github.com/AbNormal66/107-1/blob/master/w05/imagesgallery.html
+[ImagesGallery](https://github.com/AbNormal66/107-1/blob/master/w05/imagesgallery.html/)
 
 
 
@@ -28,5 +28,5 @@ ImagesGallery/https://github.com/AbNormal66/107-1/blob/master/w05/imagesgallery.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2NDU5MTI1LDE1NTI4OTM4NjVdfQ==
+eyJoaXN0b3J5IjpbMTY5NDA0MTQ1MCwxNTUyODkzODY1XX0=
 -->

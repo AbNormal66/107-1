@@ -1,6 +1,6 @@
 #2074102588李朕軒
 # W01/
-自我介紹/https://github.com/AbNormal66/107-1/blob/master/w01/intro.html
+[自我介紹](https://github.com/AbNormal66/107-1/blob/master/w01/intro.html)
 
 # W02/
 Pokemon圖鑑/https://github.com/AbNormal66/107-1/blob/master/w02/table.html
@@ -28,5 +28,5 @@ ImagesGallery/https://github.com/AbNormal66/107-1/blob/master/w05/imagesgallery.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjg5Mzg2NV19
+eyJoaXN0b3J5IjpbLTE0MzQ0MzY3MzUsMTU1Mjg5Mzg2NV19
 -->

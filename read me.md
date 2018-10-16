@@ -13,9 +13,10 @@ DIV/https://github.com/AbNormal66/107-1/blob/master/w03/div.html/
 淡江大戲/https://github.com/AbNormal66/107-1/blob/master/w03/tku60.html
 
 #W04/
+BLOG/https://github.com/AbNormal66/107-1/blob/master/w04/blog.html
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzg5NTEzOV19
+eyJoaXN0b3J5IjpbLTk0MjA3NjUxMl19
 -->

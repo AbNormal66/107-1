@@ -1,7 +1,26 @@
+body{
+    font-family: Arial,Helvetica,sans-serif,微軟正黑體;
+    background-image: url(../petimgs/bg.jpg)
+}
 header{
     width: 800px;
     height: 80px;
     background-color: aqua;
+}
+
+h1#text1{
+    position: absolute;
+    color: #FF0000;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+h2#text2
+{
+    position: absolute;
+    color: #ffffff;
+    margin-top: 40px;
+    margin-left: 150px;
 }
 
 aside{
@@ -14,13 +33,17 @@ aside{
 article{
     width: 625PX;
     height: 400PX;
-    
+    margin-left: 170px;
+    background-color: beige;
 }
 
 footer{
     width: 800px;
     height: 50px;
-    background-color: floralwhite;
+    background-color:#7fe02d;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 50px;
 }
 
 nav{
@@ -43,5 +66,26 @@ nav ul li a{
 }
 
 nav ul li a:hover{
+    background-image: url(../petimgs/btn_hover.png)
     color: white;
+}
+
+img{
+    width: 120px;
+    margin: 3px;
+    border-radius: 10px;
+}
+
+.consection{
+    width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+fieldset{
+    border-radius: 30px;
+}
+
+fieldset legeng{
+    text-align: center;
 }

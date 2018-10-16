@@ -15,10 +15,13 @@ DIV/https://github.com/AbNormal66/107-1/blob/master/w03/div.html/
 # W04/
 BLOG/https://github.com/AbNormal66/107-1/blob/master/w04/blog.html
 
-#TIC TAC TOE
+TIC TAC TOE/https://github.com/AbNormal66/107-1/blob/master/w04/ttt.html
+
+# W05/
+寵物握網頁/https://github.com/AbNormal66/107-1/blob/master/w05-nav/index.html
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzY0NzA4OV19
+eyJoaXN0b3J5IjpbLTE1ODE1OTA3NzFdfQ==
 -->

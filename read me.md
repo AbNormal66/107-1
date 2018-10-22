@@ -13,14 +13,17 @@
 [淡江大戲](https://github.com/AbNormal66/107-1/blob/master/w03/tku60.html/)
 
 # W04/
-[BLOG](https://github.com/AbNormal66/107-1/blob/master/w04/blog.html)
+[BLOG](https://github.com/AbNormal66/107-1/blob/master/w04/blog.html/)
 
-[TIC TAC TOE](https://github.com/AbNormal66/107-1/blob/master/w04/ttt.html)
+[TIC TAC TOE](https://github.com/AbNormal66/107-1/blob/master/w04/ttt.html/)
 
 # W05/
 [寵物窩網頁](https://github.com/AbNormal66/107-1/blob/master/w05-nav/index.html/)
 
 [ImagesGallery](https://github.com/AbNormal66/107-1/blob/master/w05/imagesgallery.html/)
+
+# W06/
+[寵物窩網頁](https://github.com/AbNormal66/107-1/blob/master/w06-nav/index.html/)
 
 
 

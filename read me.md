@@ -27,7 +27,7 @@
 
 # W07/
 [淡江功課](https://github.com/AbNormal66/107-1/blob/master/w07/test.html/)
-
+[galleryTemplate](https://github.com/AbNormal66/107-1/blob/master/w07/galleryTemplate%20.html)
 
 
 

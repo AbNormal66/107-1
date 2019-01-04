@@ -33,7 +33,7 @@
 # W08/
 [Pattern](https://github.com/AbNormal66/107-1/blob/master/w08/PATTERN.html)
 
-# W09.10
+# W09.10/
 考試周
 
 # W11
